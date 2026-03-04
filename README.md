@@ -5,7 +5,7 @@ built with pure Python (no ML libraries), deployed with Streamlit.
 
 🔗 **Live Demo:** [Text Insight Dashboard](https://text-insight-dash.streamlit.app)
 
-<img width="801" height="711" alt="1" src="https://github.com/user-attachments/assets/9914ee8d-b6c2-4185-af01-d22bde931a4c" /><img width="782" height="547" alt="2" src="https://github.com/user-attachments/assets/c481d2d7-176a-4a0e-92e5-263ffcb17eb2" /><img width="798" height="543" alt="3" src="https://github.com/user-attachments/assets/9e2989fb-f223-4836-ad20-a5c96ef231ec" /><img width="817" height="690" alt="4" src="https://github.com/user-attachments/assets/d723aaf3-d163-4d7e-a8d2-77b8b8dcf991" />
+<img width="500" height="711" alt="1" src="https://github.com/user-attachments/assets/9914ee8d-b6c2-4185-af01-d22bde931a4c" /><img width="500" height="530" alt="2" src="https://github.com/user-attachments/assets/c481d2d7-176a-4a0e-92e5-263ffcb17eb2" /><img width="500" height="543" alt="3" src="https://github.com/user-attachments/assets/9e2989fb-f223-4836-ad20-a5c96ef231ec" /><img width="500" height="690" alt="4" src="https://github.com/user-attachments/assets/d723aaf3-d163-4d7e-a8d2-77b8b8dcf991" />
 
 ## 💡 How This Project Started
 
