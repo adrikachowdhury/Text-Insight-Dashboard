@@ -32,7 +32,7 @@ no ML magic. Just an honest analysis anyone can actually learn from.
 
 ## ✨ What It Does
 
-Paste any text - be it an article, an essay, an email, a speech, or a dissertation 
+Paste any huge text - be it an article, an essay, an email, a speech, or a dissertation 
 chapter - and instantly get:
 
 ### 📊 Summary Statistics
