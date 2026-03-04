@@ -48,7 +48,6 @@ st.divider()
 
 text_input = st.text_area(
     "📋 Paste your text here:",
-    value=st.text_input(),
     height=200,
     placeholder="Type or paste any text..."
 )
