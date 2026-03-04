@@ -109,16 +109,21 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+**Step 4 (Optional) - Run the Notebook**
+
+If you want to test this out on a notebook like the Google Colab, then try with `analyzer_colab.ipynb`.
+
 ---
 
 ## 📁 Project Structure
 ```
 text-insight-dashboard/
 │
-├── app.py            # Streamlit UI - all layout and visual logic
-├── analyzer.py       # Analysis engine - all text processing functions
-├── requirements.txt  # Dependencies
-└── README.md         # You are here
+├── app.py                     # Streamlit UI - all layout and visual logic
+├── analyzer.py                # Analysis engine - all text processing functions
+├── analyzer_colab.ipynb       # Whole implementation in notebook
+├── requirements.txt           # Dependencies
+└── README.md                  # You are here
 ```
 
 The project is deliberately split into two files. `analyzer.py` is 
