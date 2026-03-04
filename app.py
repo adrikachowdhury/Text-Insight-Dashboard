@@ -38,17 +38,17 @@ st.divider()
 # Whatever the user types is stored in `text_input`.
 # Every time the user changes the text, Streamlit reruns the entire script from top to bottom automatically.
 
-sample_text = """Artificial Intelligence is transforming industries at an unprecedented Pace.
-Companies that fail to adapt will unfortunately fall behind. The opportunities
-are tremendous for those who embrace change. However, the challenges are equally
-significant. Building great AI systems requires not just technical expertise,
-but also a deep understanding of human needs and ethical considerations. Now,
-What Should Be Done? Therefore, leaders must act immediately to implement these
-critical changes across their organizations."""
+# sample_text = """Artificial Intelligence is transforming industries at an unprecedented Pace.
+# Companies that fail to adapt will unfortunately fall behind. The opportunities
+# are tremendous for those who embrace change. However, the challenges are equally
+# significant. Building great AI systems requires not just technical expertise,
+# but also a deep understanding of human needs and ethical considerations. Now,
+# What Should Be Done? Therefore, leaders must act immediately to implement these
+# critical changes across their organizations."""
 
 text_input = st.text_area(
     "📋 Paste your text here:",
-    value=sample_text,
+    value=st.text_input(),
     height=200,
     placeholder="Type or paste any text..."
 )
