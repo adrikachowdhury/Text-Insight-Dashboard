@@ -20,13 +20,14 @@ def get_word_stats(text):
     stop_words = get_stop_words()
     filtered_words = [w for w in words if w not in stop_words]
     char_len = [len(w) for w in words]
+    unique_words = set(words)
 
     return {
         "total_words": len(words),
         "unique_words": len(set(words)),
         "top_keywords": Counter(filtered_words).most_common(15),
         "avg_word_length": round(sum(char_len) / len(words), 2) if words else 0,
-        "lexical_diversity": round(len(set(words)) / len(words), 3) if words else 0
+        "lexical_diversity": round(len((unique_words)) / len(words), 3) if words else 0
     }
 
 def get_sentence_stats(text):
