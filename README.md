@@ -153,7 +153,9 @@ This was my first proper project-based learning with this end-to-end Python proj
 
 The project idea and learning roadmap were suggested by 
 **Claude (Anthropic's AI assistant)**, which I'm currently using as an AI mentor 
-to dig deeper into NLP from scratch. This project was part of my project-based learning path- building something real and deployable using only foundational 
+to dig deeper into NLP from scratch. This js not just for explanations, but for building **theoretical understanding**, exploring **structured project ideas**, and **working through code step by step** with **careful analysis** and **documentation**.
+
+This project was part of my project-based learning path- building something real and deployable using only foundational 
 Python knowledge - before touching any ML frameworks, and understand each crucial segment of it.
 
 What I came away with isn't just a deployed app. It's a genuine 
@@ -162,7 +164,7 @@ architecture, and how to separate logic from UI in a real project.
 
 To those interested in digging into AI/NLP and looking for a structured path, 
 I'd genuinely recommend using an AI assistant as a mentor alongside 
-traditional resources. The ability to ask "why does this work?" 
+traditional resources. I believe, the ability to ask "why does this work?" 
 after every single line of code is something textbooks can't match.
 
 ---
@@ -175,8 +177,7 @@ Many thanks!🙌
 
 ## 📬 Connect
 
-If you found this useful or you're on a similar learning journey, 
-feel free to connect:
+If you found this useful or you're on a similar learning journey or for any collaboration for project-based learning, feel free to connect:
 
 - GitHub: [@adrikachowdhury](https://github.com/adrikachowdhury)
 - LinkedIn: [Adrika Chowdhury](https://linkedin.com/in/adrika-chowdhury-a582712b1/)
