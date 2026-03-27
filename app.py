@@ -61,7 +61,7 @@ text_input = st.text_area(
 # That's why we wrap everything inside `if analyze_btn:`-
 # so the analysis only runs after the button is clicked.
 
-analyze_btn = st.button("✨ Analyse Text", type="primary", use_container_width=True)
+analyze_btn = st.button("✨ Analyze Text", type="primary", use_container_width=True)
 
 # Everything inside this `if` block only runs when
 # the button has been clicked AND text is not empty.
