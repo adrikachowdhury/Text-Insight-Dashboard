@@ -92,7 +92,7 @@ it to a model.
 ---
 
 ## Architecture Diagram
-<img width="500" height="400" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/34b78737-cb71-4206-86a0-60ffc2f88011" />
+<img width="500" height="500" alt="Flowchart" src="https://github.com/user-attachments/assets/01fdca60-4f83-4b00-80b4-1d6379cf913d" />
 
 ---
 
