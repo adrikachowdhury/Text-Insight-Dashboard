@@ -158,7 +158,7 @@ This was my first proper project-based learning with this end-to-end Python proj
 
 The project idea and learning roadmap were suggested by 
 **Claude (Anthropic's AI assistant)**, which I'm currently using as an AI mentor 
-to dig deeper into NLP from scratch. This js not just for explanations, but for building **theoretical understanding**, exploring **structured project ideas**, and **working through code step by step** with **careful analysis** and **documentation**.
+to dig deeper into NLP from scratch. This is not just for explanations, but for building **theoretical understanding**, exploring **structured project ideas**, and **working through code step by step** with **careful analysis** and **documentation**.
 
 This project was part of my project-based learning path- building something real and deployable using only foundational 
 Python knowledge - before touching any ML frameworks, and understand each crucial segment of it.
